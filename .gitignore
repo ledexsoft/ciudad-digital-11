@@ -1,0 +1,29 @@
+# Unreal-generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+*.xcodeproj
+*.xcworkspace
+.vs/
+
+# This public repository distributes authored source only. Do not commit
+# project assets or data that carry separate licenses.
+Content/
+SourceData/
+Config/
+CumaPlay.uproject
+
+# Local Codex/Unreal MCP configuration and credentials
+.codex/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Local build products; keep Build/ platform prerequisites under source control.
+Builds/
+Releases/
