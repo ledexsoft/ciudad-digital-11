@@ -8,6 +8,8 @@ Código C++ y documentación para una simulación explorable de Cumanayagua, Cie
 - Ajustes runtime de colisión y apoyo en el terreno para el personaje de primera persona de la plantilla de Unreal.
 - Documentación de implementación y verificación.
 
+Documentación del proyecto: [plan, estado y guía para desarrolladores](https://ledexsoft.com/Proyectos/CiudadDigital11/). Para proponer o enviar cambios, consulta [CONTRIBUTING.md](CONTRIBUTING.md).
+
 Este es un repositorio de **código fuente**, no el proyecto Unreal completo. No contiene mapas ni assets `.uasset`/`.umap`, contenido de plantillas de Epic, datos geográficos externos, configuración local, cachés ni binarios. Para usar el código, integra `Source/CumaPlay` en un proyecto propio de UE 5.8, habilita el plugin incluido `SunPosition` y añade los mapas/assets que tengas derecho a usar. El código aquí no hace que esos recursos estén cubiertos por la licencia MIT.
 
 ## Estado
